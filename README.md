@@ -1,0 +1,2 @@
+# docs
+Cubecopia API documentation
